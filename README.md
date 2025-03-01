@@ -1,19 +1,19 @@
-Sentiment Analysis on Amazon Product Reviews
-📌 Project Overview
+# Sentiment Analysis on Amazon Product Reviews
+## 📌 Project Overview
 This project performs sentiment analysis on Amazon product reviews using Natural Language Processing (NLP) and Machine Learning techniques. By scraping customer reviews, the system classifies them as positive, negative, or neutral, providing insights for consumers and sellers.
 
-🔍 Key Features
+## 🔍 Key Features
 Web Scraping: Extracts Amazon product reviews using ScraperAPI and BeautifulSoup.
 Sentiment Analysis: Uses VADER SentimentIntensityAnalyzer to classify reviews.
 Automation & Processing: Handles multiple pages of reviews efficiently.
 Statistical Summary: Provides the percentage of positive, negative, and neutral reviews.
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 BeautifulSoup (HTML parsing)
 VADER Sentiment Analysis
 Requests (for HTTP requests)
 ScraperAPI (for web scraping)
-🚀 How It Works
+## 🚀 How It Works
 User inputs the Amazon product review page URL and the number of pages to scrape.
 The script extracts review texts using BeautifulSoup.
 VADER Sentiment Analyzer evaluates the sentiment score for each review.
@@ -21,9 +21,8 @@ Final output includes:
 Sentiment classification (Positive, Negative, Neutral)
 Total number of reviews
 Percentage of each sentiment type
-📌 Results & Applications
-
-OUTPUT: 
+## 📌 Results & Applications
+ 
 Enter the Amazon product review link: https://www.amazon.in/Redmi-Note-11T-5G
 Dimensity/product
 reviews/B09LHX1YFX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews 
@@ -199,11 +198,9 @@ Review was rated as 25.6000 % Neutral
 Review was rated as 74.4000 % Positive 
 Review Overall Rated As Positive 
 ================================================== 
-################################################## 
 Number of reviews: 20 
 Number of Positive Reviews: 12 
 Number of Negative Reviews: 4 
 Number of Neutral Reviews: 4 
 Average Rated As Positive 
 Most buyers like this product. 
-##################################################
