@@ -24,8 +24,6 @@ Percentage of each sentiment type
 ## 📌 Results & Applications
 ![Screenshot 2025-03-02 193538](https://github.com/user-attachments/assets/0881edcc-c25c-40ff-8209-32ea9c435f48)
 
-![image](https://github.com/user-attachments/assets/e24c2362-8582-46fe-8017-8b4a81cdc89a)
-
  Sample Output
 
 Review 1
@@ -130,3 +128,9 @@ Number of Negative Reviews: 4
 Number of Neutral Reviews: 4 
 Average Rated As Positive 
 Most buyers like this product. 
+
+![image](https://github.com/user-attachments/assets/dd39391d-edf1-4043-b46b-92516a33565c)
+
+A License
+
+This project is licensed under the MIT License.
