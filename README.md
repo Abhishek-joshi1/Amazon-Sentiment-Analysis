@@ -24,9 +24,9 @@ Percentage of each sentiment type
 ## 📌 Results & Applications
 ![Screenshot 2025-03-02 193538](https://github.com/user-attachments/assets/0881edcc-c25c-40ff-8209-32ea9c435f48)
 
- Sample Output
+## Sample Output
 
-Review 1
+#### Review 1
 
 Review: The Xiaomi Redmi Note 11T 5G impresses with its stellar performance and 5G capabilities at an affordable price point. The vibrant and large display makes for immersive viewing, whether for multimedia or gaming. The device's battery life is commendable, easily lasting through a day of heavy usage. Its camera system captures decent photos in various conditions, although low-light performance could be better. The inclusion of 5G connectivity future-proofs the device for faster data speeds. While the plastic build may feel less premium, it aids in keeping the device lightweight. Overall, the Redmi Note 11T 5G offers great value for its features, making it an excellent choice for budget-conscious users seeking a blend of performance and connectivity.
 
@@ -40,7 +40,7 @@ Positive: 16.50%
 
 Overall Sentiment: Positive
 
-Review 2
+#### Review 2
 
 Review: Phone is good but functions are not. Fingerprint is not there. Voice is not good.
 
@@ -54,7 +54,7 @@ Positive: 9.30%
 
 Overall Sentiment: Negative
 
-Review 3
+#### Review 3
 
 Review: The Redmi Note 11T is an absolute gem of a smartphone, and it deserves every one of its five stars. Here's why:
 
@@ -82,7 +82,7 @@ Positive: 19.60%
 
 Overall Sentiment: Positive
 
-Additional Reviews
+#### Additional Reviews
 
 "Call recording is difficult and photos by camera are not clear." (Negative Sentiment: 34.20%)
 
@@ -92,7 +92,7 @@ Additional Reviews
 
 "Good product." (Positive Sentiment: 74.40%)
 
-Features
+#### Features
 
 Extracts and processes Amazon product reviews.
 
@@ -102,7 +102,7 @@ Classifies reviews as Positive, Neutral, or Negative.
 
 Provides percentage breakdown for each sentiment category.
 
-How It Works
+#### How It Works
 
 Enter the Amazon product review URL.
 
@@ -112,15 +112,12 @@ The script extracts and analyzes the reviews.
 
 Outputs sentiment scores for each review.
 
-Requirements
+#### Requirements
 
-Python
-
-BeautifulSoup
-
-VaderSentiment
-
-Requests
+* Python
+* BeautifulSoup
+* VaderSentiment
+* Requests
 
 Number of reviews: 20 
 Number of Positive Reviews: 12 
@@ -131,6 +128,6 @@ Most buyers like this product.
 
 ![image](https://github.com/user-attachments/assets/dd39391d-edf1-4043-b46b-92516a33565c)
 
-A License
+## A License
 
 This project is licensed under the MIT License.
